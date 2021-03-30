@@ -5,16 +5,15 @@
 **File Name**|**File Order**|**File Description**
 :-----:|:-----:|:-----:
 README.md|1|The README file contains the executive summary and overview of the project as a whole.
-data|2|File directory contains all of the data used in the notebooks.
-data-cleaning.ipynb|3|Contains the data cleaning and class creation sections of the project. 
-protein-eda.ipynb|4|Contains all exploratory data analysis done on the dataset.
-colab-modeling-rnn.ipynb|5|Contains all iterations of recurrent neural net models trained on the imbalanced data.
-oversample_model_rnn.ipynb|6|Contains all iterations of recurrent neural net models trained on oversampled data. 
-images|7|A directory containing images of scores from the final production model and data analysis visualizations used in the executive summary.
-capstone_presentation.pdf|8|A pdf containing the powerpoint slides used during project presentation.
-capstone_streamlit.py|9|Python script for creating model demo to use during the presentation.
-rnn_model_sampled_2.h5|10|The saved model architecture and weights for use in the streamlit script.
-requirements.txt|11|The package requirements needed to read the notebooks.
+data-cleaning.ipynb|2|Contains the data cleaning and class creation sections of the project. 
+protein-eda.ipynb|3|Contains all exploratory data analysis done on the dataset.
+colab-modeling-rnn.ipynb|4|Contains all iterations of recurrent neural net models trained on the imbalanced data.
+oversample_model_rnn.ipynb|5|Contains all iterations of recurrent neural net models trained on oversampled data. 
+images|6|A directory containing images of scores from the final production model and data analysis visualizations used in the executive summary.
+capstone_presentation.pdf|7|A pdf containing the powerpoint slides used during project presentation.
+capstone_streamlit.py|8|Python script for creating model demo to use during the presentation.
+rnn_model_sampled_2.h5|9|The saved model architecture and weights for use in the streamlit script.
+requirements.txt|10|The package requirements needed to read the notebooks.
 
 
 #### The Problem
